@@ -1,0 +1,14 @@
+C:\Users\hwillis4\Desktop\repo\VariablesEx\VariablesEx\bin\Debug\netcoreapp3.1\VariablesEx.exe
+C:\Users\hwillis4\Desktop\repo\VariablesEx\VariablesEx\bin\Debug\netcoreapp3.1\VariablesEx.deps.json
+C:\Users\hwillis4\Desktop\repo\VariablesEx\VariablesEx\bin\Debug\netcoreapp3.1\VariablesEx.runtimeconfig.json
+C:\Users\hwillis4\Desktop\repo\VariablesEx\VariablesEx\bin\Debug\netcoreapp3.1\VariablesEx.runtimeconfig.dev.json
+C:\Users\hwillis4\Desktop\repo\VariablesEx\VariablesEx\bin\Debug\netcoreapp3.1\VariablesEx.dll
+C:\Users\hwillis4\Desktop\repo\VariablesEx\VariablesEx\bin\Debug\netcoreapp3.1\VariablesEx.pdb
+C:\Users\hwillis4\Desktop\repo\VariablesEx\VariablesEx\obj\Debug\netcoreapp3.1\VariablesEx.csproj.AssemblyReference.cache
+C:\Users\hwillis4\Desktop\repo\VariablesEx\VariablesEx\obj\Debug\netcoreapp3.1\VariablesEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwillis4\Desktop\repo\VariablesEx\VariablesEx\obj\Debug\netcoreapp3.1\VariablesEx.AssemblyInfoInputs.cache
+C:\Users\hwillis4\Desktop\repo\VariablesEx\VariablesEx\obj\Debug\netcoreapp3.1\VariablesEx.AssemblyInfo.cs
+C:\Users\hwillis4\Desktop\repo\VariablesEx\VariablesEx\obj\Debug\netcoreapp3.1\VariablesEx.csproj.CoreCompileInputs.cache
+C:\Users\hwillis4\Desktop\repo\VariablesEx\VariablesEx\obj\Debug\netcoreapp3.1\VariablesEx.dll
+C:\Users\hwillis4\Desktop\repo\VariablesEx\VariablesEx\obj\Debug\netcoreapp3.1\VariablesEx.pdb
+C:\Users\hwillis4\Desktop\repo\VariablesEx\VariablesEx\obj\Debug\netcoreapp3.1\VariablesEx.genruntimeconfig.cache
